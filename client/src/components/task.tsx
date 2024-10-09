@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-interface TaskProps {
+export interface TaskProps {
   "title": string,
   "completedStatus": boolean
 }
