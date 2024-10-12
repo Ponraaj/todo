@@ -1,6 +1,7 @@
 # Todo App
 
 This is just a basic CRUD Application
+![Demo](./preview/preview.gif)
 
 ## Tech Stack
 
